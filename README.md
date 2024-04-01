@@ -1,4 +1,4 @@
-# AutoClicker
+# Mouse AutoClicker
 
 ## Prerequisites
 
